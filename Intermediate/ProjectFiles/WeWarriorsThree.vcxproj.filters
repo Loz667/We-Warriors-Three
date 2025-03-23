@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WeWarriorsThree.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WeWarriorsThree.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WeWarriorsThreeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\WeWarriorsThree">
+      <UniqueIdentifier>{E2A36445-B3D1-3AD1-9F3A-4B6C245A2539}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WeWarriorsThree\WeWarriorsThree.Build.cs">
+      <Filter>Source\WeWarriorsThree</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WeWarriorsThree\WeWarriorsThree.cpp">
+      <Filter>Source\WeWarriorsThree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\WeWarriorsThree\WeWarriorsThree.h">
+      <Filter>Source\WeWarriorsThree</Filter>
+    </ClCompile>
+    <Filter Include="Source\WeWarriorsThree\Private">
+      <UniqueIdentifier>{BC62FC88-B250-3017-A2C2-6FE9A096815E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WeWarriorsThree\Private\WarriorsCharacterBase.cpp">
+      <Filter>Source\WeWarriorsThree\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\WeWarriorsThree\Public">
+      <UniqueIdentifier>{60C5FCC4-0A8C-375A-9549-F1798D4D3EBA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WeWarriorsThree\Public\WarriorsCharacterBase.h">
+      <Filter>Source\WeWarriorsThree\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

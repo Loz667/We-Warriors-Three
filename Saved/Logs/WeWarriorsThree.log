@@ -7329,3 +7329,255 @@ Referencers of SceneThumbnailInfo /Game/Assets/PolygonDungeons/FX/Meshes/SK_Prop
 [2025.03.23-16.39.13:138][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3745.053223
 [2025.03.23-16.39.14:137][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.23-16.39.14:137][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3745.719482, Update Interval: 333.602722
+[2025.03.23-16.45.45:639][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4137.550781
+[2025.03.23-16.45.46:991][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-16.45.46:991][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4138.550293, Update Interval: 309.584045
+[2025.03.23-16.51.36:573][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4488.491699
+[2025.03.23-16.51.37:573][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-16.51.37:573][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4489.158691, Update Interval: 337.427887
+[2025.03.23-16.57.52:724][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4864.633301
+[2025.03.23-16.57.53:724][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-16.57.53:724][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4865.299316, Update Interval: 353.358551
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Goblin_Warrior_Male.BP_Chr_Goblin_Warrior_Male is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Tormented_Soul.BP_Chr_Tormented_Soul is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Skeleton_Soldier_02.BP_Chr_Skeleton_Soldier_02 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Skeleton_Soldier_01.BP_Chr_Skeleton_Soldier_01 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Skeleton_Slave_01.BP_Chr_Skeleton_Slave_01 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Skeleton_Knight.BP_Chr_Skeleton_Knight is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Rock_Golem.BP_Chr_Rock_Golem is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Hero_Knight_Male.BP_Chr_Hero_Knight_Male is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Hero_Knight_Female.BP_Chr_Hero_Knight_Female is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Goblin_Warrior_Female.BP_Chr_Goblin_Warrior_Female is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Goblin_WarChief.BP_Chr_Goblin_WarChief is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Goblin_Shaman.BP_Chr_Goblin_Shaman is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Goblin_Male.BP_Chr_Goblin_Male is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Goblin_Female.BP_Chr_Goblin_Female is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Ghost_02.BP_Chr_Ghost_02 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:088][439]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Assets/PolygonDungeons/Meshes/CharactersUE4/BP_Chr_Ghost_01.BP_Chr_Ghost_01 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.03.23-16.58.39:601][439]LogSlate: Took 0.044560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.23-16.59.42:869][982]Running D:/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="D:/Unreal Projects/WeWarriorsThree/WeWarriorsThree.uproject" -game -rocket -progress
+[2025.03.23-16.59.43:368][982]Using bundled DotNet SDK version: 8.0.300
+[2025.03.23-16.59.43:368][982]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="D:/Unreal Projects/WeWarriorsThree/WeWarriorsThree.uproject" -game -rocket -progress
+[2025.03.23-16.59.53:033][982]Log file: C:\Users\loren\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.03.23-17.00.01:885][982]
+[2025.03.23-17.00.01:885][982]Generating VisualStudio project files:
+[2025.03.23-17.00.01:986][982]Discovering modules, targets and source code for project...
+[2025.03.23-17.00.19:801][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.00.19:801][982]WARNING: UnrealBuildTool has banned the MSVC 14.39.33519-14.39.99999 toolchains due to compiler issues. Please install a different toolchain such as 14.38.33130 by opening the generated solution and installing recommended components or from the Visual Studio installer.
+[2025.03.23-17.00.19:801][982]Unavailable x64 toolchains (1):
+[2025.03.23-17.00.19:801][982] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519
+[2025.03.23-17.00.19:801][982]    (Family=14.39.33519, FamilyRank=1, Version=14.39.33523, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error="UnrealBuildTool has banned the MSVC 14.39.33519-14.39.99999 toolchains due to compiler issues. Please install a different toolchain such as 14.38.33130 by opening the generated solution and installing recommended components or from the Visual Studio installer.")
+[2025.03.23-17.00.19:801][982]Visual Studio 2022 compiler version 14.39.33523 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2025.03.23-17.00.19:902][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.00.19:902][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.00.29:466][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.00.29:466][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.00.41:144][982]Binding IntelliSense data...
+[2025.03.23-17.00.41:147][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.00.41:248][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.10:429][982]Binding IntelliSense data... 50%
+[2025.03.23-17.02.10:429][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.10:530][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.12:944][982]Binding IntelliSense data... 100%
+[2025.03.23-17.02.12:944][982]Writing project files...
+[2025.03.23-17.02.13:247][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:247][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:449][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:449][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:449][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:549][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:549][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:751][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:751][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:852][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:852][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.13:852][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.14:054][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.14:054][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.14:054][982]Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.21:913][982]Writing project files... 100%
+[2025.03.23-17.02.21:913][982]
+[2025.03.23-17.02.21:913][982]Generating QueryTargets data for editor...
+[2025.03.23-17.02.21:913][982]Total execution time: 154.56 seconds
+[2025.03.23-17.02.22:418][982]LogHotReload: Recompiling module WeWarriorsThree...
+[2025.03.23-17.02.22:419][982]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.23-17.02.22:520][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave CompileSuccess...
+[2025.03.23-17.02.22:572][982]LogAudioDerivedData: Display: CompileSuccess compressed to 14.13% (from 93KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.03.23-17.02.22:573][982]LogAudio: Display: Chunk stats for (SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13553 bytes, ChunkN=0)
+[2025.03.23-17.02.22:731][982]Candidate modules for hot reload:
+[2025.03.23-17.02.22:731][982]  WeWarriorsThree
+[2025.03.23-17.02.22:757][982]Launching UnrealBuildTool... [D:/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=WeWarriorsThree,4006 WeWarriorsThreeEditor Win64 Development -Project="D:/Unreal Projects/WeWarriorsThree/WeWarriorsThree.uproject" "D:/Unreal Projects/WeWarriorsThree/WeWarriorsThree.uproject"  -IgnoreJunk]
+[2025.03.23-17.02.25:684][982]Using bundled DotNet SDK version: 8.0.300
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=WeWarriorsThree,4006 WeWarriorsThreeEditor Win64 Development -Project="D:/Unreal Projects/WeWarriorsThree/WeWarriorsThree.uproject" "D:/Unreal Projects/WeWarriorsThree/WeWarriorsThree.uproject"  -IgnoreJunk
+Log file: C:\Users\loren\AppData\Local\UnrealBuildTool\Log.txt
+Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\WeWarriorsThree).
+Creating makefile for WeWarriorsThreeEditor (no existing makefile)
+Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+Total execution time: 2.14 seconds
+UnrealBuildTool has banned the MSVC 14.39.33519-14.39.99999 toolchains due to compiler issues. Please install a different toolchain such as 14.38.33130 by opening the generated solution and installing recommended components or from the Visual Studio installer.
+
+[2025.03.23-17.02.25:706][982]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.03.23-17.02.25:706][982]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=WeWarriorsThree,4006 WeWarriorsThreeEditor Win64 Development -Project="D:/Unreal Projects/WeWarriorsThree/WeWarriorsThree.uproject" "D:/Unreal Projects/WeWarriorsThree/WeWarriorsThree.uproject"  -IgnoreJunk
+[2025.03.23-17.02.25:706][982]CompilerResultsLog: Log file: C:\Users\loren\AppData\Local\UnrealBuildTool\Log.txt
+[2025.03.23-17.02.25:706][982]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\WeWarriorsThree).
+[2025.03.23-17.02.25:706][982]CompilerResultsLog: Creating makefile for WeWarriorsThreeEditor (no existing makefile)
+[2025.03.23-17.02.25:706][982]CompilerResultsLog: Visual Studio 2022 is installed, but is out of date or missing a valid C++ toolchain (minimum version 14.38.33130, preferred version 14.38.33130). Please update Visual Studio 2022 to 17.8 or later and verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)" component is selected in the Visual Studio 2022 installation options.
+[2025.03.23-17.02.25:706][982]CompilerResultsLog: Total execution time: 2.14 seconds
+[2025.03.23-17.02.25:706][982]CompilerResultsLog: UnrealBuildTool has banned the MSVC 14.39.33519-14.39.99999 toolchains due to compiler issues. Please install a different toolchain such as 14.38.33130 by opening the generated solution and installing recommended components or from the Visual Studio installer.
+[2025.03.23-17.02.25:706][982]LogMainFrame: MainFrame: Module compiling took 3.287 seconds
+[2025.03.23-17.02.25:772][982]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave CompileFailed...
+[2025.03.23-17.02.25:804][982]LogAudioDerivedData: Display: CompileFailed compressed to 14.18% (from 87KB to 12KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.03.23-17.02.25:807][982]LogAudio: Display: Chunk stats for (SoundWave /Engine/EditorSounds/Notifications/CompileFailed.CompileFailed: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=12695 bytes, ChunkN=0)
+[2025.03.23-17.25.48:013][982]LogSlate: Window 'Message' being destroyed
+[2025.03.23-17.25.48:062][982]Message dialog closed, result: No, title: Message, text: Successfully added class 'WarriorsCharacterBase', however you must recompile the 'WeWarriorsThree' module before it will appear in the Content Browser. Failed to compile newly created game module.
+
+Would you like to open the Output Log to see more details?
+[2025.03.23-17.25.48:062][982]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.03.23-17.25.49:276][987]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.03.23-17.25.51:124][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2025.03.23-17.25.51:342][  5]LogStall: Shutdown...
+[2025.03.23-17.25.51:343][  5]LogStall: Shutdown complete.
+[2025.03.23-17.25.51:507][  5]LogSlate: Window 'WeWarriorsThree - Unreal Editor' being destroyed
+[2025.03.23-17.25.51:861][  6]Cmd: QUIT_EDITOR
+[2025.03.23-17.25.51:861][  6]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.23-17.25.51:880][  6]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.23-17.25.51:928][  6]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.23-17.25.51:929][  6]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.23-17.25.51:931][  6]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.51:932][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.51:977][  6]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.51:979][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:009][  6]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:010][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:055][  6]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:057][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:116][  6]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.23-17.25.52:117][  6]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.23-17.25.52:154][  6]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:154][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:155][  6]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:155][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:155][  6]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:155][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:156][  6]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:156][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:157][  6]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:157][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:157][  6]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:157][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:158][  6]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:158][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:158][  6]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:158][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:159][  6]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:159][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:160][  6]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:160][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:160][  6]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:160][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:161][  6]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:161][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:162][  6]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:163][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:163][  6]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:163][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:164][  6]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:164][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:165][  6]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:167][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:167][  6]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:167][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:168][  6]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:168][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:169][  6]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:169][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:170][  6]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:170][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:170][  6]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:170][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:171][  6]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:171][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:172][  6]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:172][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:172][  6]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:172][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:173][  6]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:173][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:173][  6]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:173][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:174][  6]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:174][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:175][  6]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:175][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:175][  6]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:175][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:176][  6]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:176][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:177][  6]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:177][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:177][  6]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:177][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:178][  6]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:178][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:179][  6]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:179][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:180][  6]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:180][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:181][  6]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:181][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:182][  6]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:182][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:183][  6]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:183][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:184][  6]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:184][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:184][  6]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:184][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:185][  6]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:185][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:185][  6]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:185][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:186][  6]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:186][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:187][  6]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-17.25.52:187][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-17.25.52:188][  6]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.23-17.25.52:210][  6]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.23-17.25.52:210][  6]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.23-17.25.52:210][  6]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.23-17.25.52:226][  6]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.23-17.25.52:226][  6]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.23-17.25.52:226][  6]LogAudio: Display: Audio Device unregistered from world 'StartupMap'.
+[2025.03.23-17.25.52:226][  6]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.23-17.25.52:226][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.23-17.25.52:232][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.23-17.25.52:260][  6]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.23-17.25.52:260][  6]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.23-17.25.52:265][  6]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.03.23-17.25.52:270][  6]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.23-17.25.52:270][  6]LogExit: Preparing to exit.
+[2025.03.23-17.25.52:429][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.03.23-17.25.52:987][  6]LogEditorDataStorage: Deinitializing
+[2025.03.23-17.25.53:464][  6]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.23-17.25.53:545][  6]LogExit: Editor shut down
+[2025.03.23-17.25.53:573][  6]LogExit: Transaction tracking system shut down
+[2025.03.23-17.25.54:223][  6]LogExit: Object subsystem successfully closed.
+[2025.03.23-17.25.54:315][  6]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.23-17.25.54:861][  6]LogMemoryProfiler: Shutdown
+[2025.03.23-17.25.54:861][  6]LogNetworkingProfiler: Shutdown
+[2025.03.23-17.25.54:861][  6]LoadingProfiler: Shutdown
+[2025.03.23-17.25.54:861][  6]LogTimingProfiler: Shutdown
+[2025.03.23-17.25.55:686][  6]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.03.23-17.25.55:686][  6]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.23-17.25.55:686][  6]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.23-17.25.55:744][  6]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.23-17.25.55:744][  6]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9C63244C-44E1-50C0-B745-62BE2B846DBB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=5af768d54f7ab77c17e9afb60fc77a4b%7C38c2607ac5614b419c3e9d5184021555%7Cb01e94b9-7200-4f47-8f9c-8c618acfb2cd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.23-17.25.56:323][  6]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.23-17.25.56:348][  6]RenderDocPlugin: plugin has been unloaded.
+[2025.03.23-17.25.56:349][  6]LogXGEController: Cleaning working directory: C:/Users/loren/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.03.23-17.25.56:364][  6]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.23-17.25.56:364][  6]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.23-17.25.56:364][  6]LogPakFile: Destroying PakPlatformFile
+[2025.03.23-17.25.58:921][  6]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.23-17.25.58:962][  6]LogExit: Exiting.
+[2025.03.23-17.25.59:040][  6]Log file closed, 03/23/25 17:25:59
